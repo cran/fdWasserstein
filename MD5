@@ -1,0 +1,16 @@
+16ac52ecdbc17346a57faa7a506a645f *DESCRIPTION
+6a2eccee597c10723480a0096731100d *NAMESPACE
+352b30d53a780c009d126c42b8f73efc *R/gaussBary.R
+9204fb06f55b9c71b8d05fe9a5ff6e33 *R/tangentPCA.R
+f8d0c4b6c96e6499fdbba80966a2f2a7 *R/wassersteinCluster.R
+984fa67fcc5a80f6ae9c7d334e1e9d5a *R/wassersteinTest.R
+c11ac8c7c34d55c1525f9b1f09bada13 *build/partial.rdb
+6387767c15fc37f75e556468a9f622d3 *data/datalist
+1b0b2f841e6393009ee49bb618aaf82c *data/phoneme.rda
+d6989b22a90497d470faff895b436579 *man/dwasserstein.Rd
+d57a1031a8596a343b1a1907a6cd3606 *man/fdWasserstein-package.Rd
+b5a7515309d47dd08709bc41f9b748af *man/gaussBary.Rd
+20d68bcbfed07bb95e52b2831d12685b *man/phoneme.Rd
+d000274fd6750703a3a4fd4658608765 *man/tangentPCA.Rd
+c6e967fb571c43dc0044bb80340e3f1f *man/wassersteinCluster.Rd
+5b1e279e7db34cbfc99a3be1562ee35f *man/wassersteinTest.Rd

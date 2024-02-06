@@ -1,0 +1,9 @@
+importFrom("graphics", "axis")
+importFrom("stats", "cov", "uniroot", "prcomp")
+  
+export("dwasserstein", 
+       "gaussBary", 
+       "tangentPCA", 
+       "wassersteinTest", 
+       "trimmedAverageSilhouette", 
+       "wassersteinCluster")
